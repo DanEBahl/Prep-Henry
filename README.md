@@ -1,2 +1,1 @@
-# Prep-Henry
-Repositorio de prueba fase 2 del PrepCourse de Henry
+Este es un ejemplo de como crear un dispositivo y clonarlo desde gitHub a mi computadora
